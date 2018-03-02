@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Mpougatsa</string>
+    <string name="Description">Γνήσια μπουγάτσα Θεσσαλονίκης ανοιγμένη στο χέρι απο το 1996</string>
+    <string name="Tel">Τηλ :</string>
+    <string name="phones">+302310257375 , +306971743953</string>
+    <string name="facebook_link">Facebook Link</string>
+    <string name="twitter_link">Twitter Link</string>
+    <string name="webpage_link">WebPage Link</string>
+    <string name="logo">Logo</string>
+    <string name="slogan">Ώρες Λειτουργείας: 20:00 – 13:00</string>
 </resources>
